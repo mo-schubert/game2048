@@ -1,1 +1,3 @@
-# game2048
+# Game 2048
+
+Java Impementation of Game 2048
